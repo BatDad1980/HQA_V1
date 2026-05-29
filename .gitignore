@@ -1,0 +1,14 @@
+# Rust build artifacts
+**/target/
+**/*.rs.bk
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment
+.env
+venv/
+env/
